@@ -63,13 +63,16 @@ aws-snowflake-tableau-project/
 │
 ├── data/                  # Amazon S3 bucket data files
 ├── sql/                   # Snowflake SQL scripts for transformations
-├── tableau/                # Tableau workbook (.twb/.twbx) files
-├── documentation/          # IAM role setup, Snowflake integration configs
-├── README.md               # Project documentation
-```
+├── tableau/               # Tableau workbook (.twb/.twbx) files
+├── documentation/         # IAM role setup, Snowflake integration configs
+├── README.md              # Project documentation
 
 
 ## Future Enhancements
 - Set up automated data refresh between S3, Snowflake, and Tableau.
 - Add predictive modeling (e.g., future cost-saving projections) inside Tableau.
 - Integrate with Snowflake Streams & Tasks for near real-time update
+
+## Screenshot
+
+![Screenshot 2025-04-28 125032](https://github.com/user-attachments/assets/e60ce6f6-2995-44fc-8193-8cb92a55932c)

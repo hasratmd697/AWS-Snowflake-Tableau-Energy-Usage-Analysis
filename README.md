@@ -76,3 +76,6 @@ aws-snowflake-tableau-project/
 ## Screenshot
 
 ![Screenshot 2025-04-28 125032](https://github.com/user-attachments/assets/e60ce6f6-2995-44fc-8193-8cb92a55932c)
+
+## 🚀 How to Access
+- The dashboard is available on Tableau Cloud.(https://prod-apsoutheast-b.online.tableau.com/t/hasratmd697-e30a26bb8b/views/Book2/TableauDashboard)

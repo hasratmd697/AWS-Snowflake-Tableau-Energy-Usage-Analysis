@@ -72,9 +72,4 @@ aws-snowflake-tableau-project/
 ## Future Enhancements
 - Set up automated data refresh between S3, Snowflake, and Tableau.
 - Add predictive modeling (e.g., future cost-saving projections) inside Tableau.
-- Integrate with Snowflake Streams & Tasks for near real-time updates.
-
-
-## Screenshots
-
-![Screenshot 2025-04-28 125032](https://github.com/user-attachments/assets/c31383c3-fe55-4be6-8a51-f4196249a9b7)
+- Integrate with Snowflake Streams & Tasks for near real-time update

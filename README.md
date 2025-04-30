@@ -57,17 +57,6 @@ It involves data ingestion, transformation, and the creation of interactive dash
 - **Data Visualization**: Tableau + Tableau Cloud
 
 
-## Project Structure
-
-aws-snowflake-tableau-project/
-│
-├── data/                  # Amazon S3 bucket data files
-├── sql/                   # Snowflake SQL scripts for transformations
-├── tableau/               # Tableau workbook (.twb/.twbx) files
-├── documentation/         # IAM role setup, Snowflake integration configs
-├── README.md              # Project documentation
-
-
 ## Future Enhancements
 - Set up automated data refresh between S3, Snowflake, and Tableau.
 - Add predictive modeling (e.g., future cost-saving projections) inside Tableau.
